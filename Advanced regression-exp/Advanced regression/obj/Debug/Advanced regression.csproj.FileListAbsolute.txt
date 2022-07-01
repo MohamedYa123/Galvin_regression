@@ -1,0 +1,76 @@
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\bin\Debug\Advanced regression.exe
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\bin\Debug\Advanced regression.pdb
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\bin\Debug\Guna.UI2.dll
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form1.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Properties.Resources.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.GenerateResource.cache
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced regression.exe
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced regression.pdb
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\bin\Debug\Advanced regression.exe.config
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form2.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form3.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Calculator.Form5.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form4.resources
+C:\Users\medo1\source\repos\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form5.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\bin\Debug\Guna.UI2.dll
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.AssemblyReference.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Calculator.Form5.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form1.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form2.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form3.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form4.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Form5.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced_regression.Properties.Resources.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.GenerateResource.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\Advanced regression.csproj.CoreCompileInputs.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\bin\Debug\str.exe.config
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\bin\Debug\str.exe
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\bin\Debug\str.pdb
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\str.exe
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression\Advanced regression\obj\Debug\str.pdb
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\str.exe.config
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\str.exe
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\str.pdb
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\Guna.UI2.dll
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.AssemblyReference.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Calculator.Form5.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form1.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form2.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form3.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form4.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form5.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Properties.Resources.resources
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.GenerateResource.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.CoreCompileInputs.cache
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\str.exe
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\obj\Debug\str.pdb
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.dll
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.dll
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.Wmi.dll
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.xml
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.xml
+F:\siege\الخوارزمية الجديدة للتمثيل\FINALY\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.Wmi.xml
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\str.exe.config
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\str.exe
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\str.pdb
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.dll
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.dll
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.Wmi.dll
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\Guna.UI2.dll
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.xml
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.xml
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\bin\Debug\DeviceId.Windows.Wmi.xml
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.AssemblyReference.cache
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Calculator.Form5.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form1.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form2.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form3.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form4.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Form5.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced_regression.Properties.Resources.resources
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.GenerateResource.cache
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\Advanced regression.csproj.CoreCompileInputs.cache
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\str.exe
+F:\siege\Galvin regression\3 important projects\Advanced regression-exp\Advanced regression\obj\Debug\str.pdb

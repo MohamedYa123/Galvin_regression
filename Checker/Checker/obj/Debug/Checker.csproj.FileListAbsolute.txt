@@ -1,0 +1,16 @@
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\Checker.exe
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\Checker.pdb
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.Form1.resources
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.Properties.Resources.resources
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.csproj.GenerateResource.cache
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.exe
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.pdb
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.dll
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.Windows.dll
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.Windows.Wmi.dll
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.xml
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.Windows.xml
+C:\Users\medo1\source\repos\Checker\Checker\bin\Debug\DeviceId.Windows.Wmi.xml
+C:\Users\medo1\source\repos\Checker\Checker\obj\Debug\Checker.csproj.CopyComplete
