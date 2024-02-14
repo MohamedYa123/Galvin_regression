@@ -1,0 +1,23 @@
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\str.exe.config
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\str.exe
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\str.pdb
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.dll
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.Windows.dll
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.Windows.Wmi.dll
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\Guna.UI2.dll
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.xml
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.Windows.xml
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\bin\Release\DeviceId.Windows.Wmi.xml
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced regression.csproj.AssemblyReference.cache
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Calculator.Form5.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Form1.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Form2.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Form3.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Form4.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Form5.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced_regression.Properties.Resources.resources
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced regression.csproj.GenerateResource.cache
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced regression.csproj.CoreCompileInputs.cache
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\Advanced regression.csproj.CopyComplete
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\str.exe
+G:\projects\Galvin_regression\Advanced regression-exp\Advanced regression\obj\Release\str.pdb

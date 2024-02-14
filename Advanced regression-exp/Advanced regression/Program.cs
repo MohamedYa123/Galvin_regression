@@ -35,7 +35,7 @@ namespace Advanced_regression
             try
             {
                 f = new Form1();
-
+                firsstcheck();
                 Application.Run(f);
             }
             catch
@@ -95,7 +95,7 @@ namespace Advanced_regression
             {
                 itime();
             };
-            t.Start();
+            //t.Start();
             
 
             //try

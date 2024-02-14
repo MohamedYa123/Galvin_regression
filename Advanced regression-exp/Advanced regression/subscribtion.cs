@@ -351,6 +351,10 @@ namespace Advanced_regression
         public void rotinecheck(double ms,bool  qn2=false ,bool zz=false)
         {
             getcpu();
+            MODE2 = Program.modetype.subscribtion;
+            cdays = 365;
+            days = cdays;
+            return;
             if (MODE == Program.modetype.ended)
             {
                 string g1 = " ABCDEFGHIJKLMNOPQRSTUVWXY123456789*-+/&^%$#@}[{abcdefghijklmnopqrstuvwxyz";

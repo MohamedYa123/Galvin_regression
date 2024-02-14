@@ -98,8 +98,8 @@ namespace Advanced_regression
             pname = "Untitled project";
             //if (Program.subs.MODE == Program.modetype.trial)
             //{
-                mainanme += " <pending internet connection> ";
-                pname = pname;
+               // mainanme += " <pending internet connection> ";
+                //pname = pname;
             //}
         }
         string mainanme;
